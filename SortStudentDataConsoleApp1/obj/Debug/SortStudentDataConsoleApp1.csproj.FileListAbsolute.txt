@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\SortStudentDataConsoleApp1\SortStudentDataConsoleApp1\bin\Debug\SortStudentDataConsoleApp1.exe.config
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\SortStudentDataConsoleApp1\SortStudentDataConsoleApp1\bin\Debug\SortStudentDataConsoleApp1.exe
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\SortStudentDataConsoleApp1\SortStudentDataConsoleApp1\bin\Debug\SortStudentDataConsoleApp1.pdb
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\SortStudentDataConsoleApp1\SortStudentDataConsoleApp1\obj\Debug\SortStudentDataConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\SortStudentDataConsoleApp1\SortStudentDataConsoleApp1\obj\Debug\SortStudentDataConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\SortStudentDataConsoleApp1\SortStudentDataConsoleApp1\obj\Debug\SortStudentDataConsoleApp1.exe
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\SortStudentDataConsoleApp1\SortStudentDataConsoleApp1\obj\Debug\SortStudentDataConsoleApp1.pdb
